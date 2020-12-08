@@ -10,7 +10,7 @@ ___
 
 **Find me here:**
 * 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/katharinahegemer/)
-* 🌐 Updating my personal [website](https://k-heg.github.io/profile/)🚧
+* 🌐 Updating my personal [website](https://k-heg.github.io/profile/) 🚧
 
 ___
 ⭐️ From K-HEG
