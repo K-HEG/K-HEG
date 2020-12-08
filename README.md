@@ -1,5 +1,4 @@
 # Hi, I'm Kathi 👋
-***
 
 ### I'm a Full Stack Web Developer ( on Rails) based in Stuttgart, Germany.
 ***
