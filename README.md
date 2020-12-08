@@ -5,7 +5,7 @@ ___
 
 * 🌱 *Learning:* I'm currently learning more about Web Development
 * 💜 *Interests:* foodie, East Africa, South East Asia
-* 👩🏼‍💻* Skills:* Ruby on Rails, CSS, HTML, SQL, JS
+* 👩🏼‍💻 *Skills:* Ruby on Rails, CSS, HTML, SQL, JS
 
 Find me here:
 * 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/katharinahegemer/)
