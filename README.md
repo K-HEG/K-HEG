@@ -1,13 +1,12 @@
 # Hi, I'm Kathi 👋
 ***
 
-## I'm a Full Stack Web Developer ( on Rails) based in Stuttgart, Germany.
+### I'm a Full Stack Web Developer ( on Rails) based in Stuttgart, Germany.
 ***
 
-🏢 I'm currently working full-time at KI group
-⚙️ I use daily: .rb, .js, .erb, .slim, .html, .scss, .svg, .png, .json, .yml, .sql
-🌱 Learning more about and studying: Web Development
-💜 Interests: foodie, East Africa, South East Asia
+* 🏢 I work full-time at KI group
+* 🌱 I'm currently learning more about and studying: Web Development
+* 💜 Interests: foodie, East Africa, South East Asia
 ***
 
 Find me around the web 🌎:
