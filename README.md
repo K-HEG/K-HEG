@@ -1,4 +1,4 @@
-# Hi, I'm Kathi 👋
+## Hi, I'm Kathi 👋
 
 ### I'm a Full Stack Web Developer ( on Rails) based in Stuttgart, Germany.
 ___
@@ -12,4 +12,4 @@ Find me around the web 🌎:
 * 🌐 Updating my personal [website](https://k-heg.github.io/profile/)
 
 ___
-⭐️ From Kathi
+⭐️ From K-HEG
